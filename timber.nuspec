@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Jakewharton.Timber</id>
+        <version>4.5.1</version>
+        <description>Xamarin Binding Library - Jakewharton Timber</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Timber</title>
+        <releaseNotes>Jakewharton Timber v4.5.1</releaseNotes>
+        <summary>Xamarin Binding Library - Jakewharton Timber</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xam-timber</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, Timber</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Jakewharton.Timber/bin/Release/Naxam.Jakewharton.Timber.dll" target="lib/MonoAndroid10/Naxam.Jakewharton.Timber.dll" />
+    </files>
+</package>
