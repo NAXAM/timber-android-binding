@@ -38,4 +38,7 @@ Thumbs.db
 
 # dotCover
 *.dotCover
-*.nupkg
+#*.nupkg
+tools/
+.vs/
+fb.xml

@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using Android.App;
 
@@ -18,7 +18,7 @@ using Android.App;
 // The form "{Major}.{Minor}.*" will automatically update the build and revision,
 // and "{Major}.{Minor}.{Build}.*" will update just the revision.
 
-[assembly: AssemblyVersion("4.5.1")]
+[assembly: AssemblyVersion("4.7.1")]
 [assembly: AssemblyInformationalVersion("4.5.1")]
 
 // The following attributes are used to specify the signing key for the assembly, 
